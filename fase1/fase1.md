@@ -1,5 +1,7 @@
-Sketch av GUI
+##Fase 1
 
-Hva skal være med i spillet
+- Sketch av GUI
 
-Modellering av Hangaman spillet i Visio
+- Hva skal være med i spillet
+
+- Modellering av Hangaman spillet i Visio
