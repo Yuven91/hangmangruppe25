@@ -3,7 +3,7 @@
 
 
 
-##Hva vi har igjen å gjøre?
+##Hva vi har igjen å gjøre
 
 > - [x] Fase 1
 > - [ ] Fase 2 
