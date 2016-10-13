@@ -1,3 +1,0 @@
-##Prosjektplan
-
-- Ferdig prosjektplan her
