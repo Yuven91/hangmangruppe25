@@ -1,2 +1,0 @@
-c:\users\even\documents\visual studio 2015\Projects\hangman_test\hangman_test\bin\Debug\hangman_test.exe.config
-C:\Users\Marius\Documents\GitHub\hangmangruppe25\hangman_test\hangman_test\bin\Debug\hangman_test.exe.config
