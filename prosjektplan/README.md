@@ -1,2 +1,3 @@
 ##Prosjektplan
-- Prosjektplanen v1 ligger her
+
+- Ferdig prosjektplan her
