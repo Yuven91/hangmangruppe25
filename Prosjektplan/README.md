@@ -1,3 +1,3 @@
 ##Prosjektplan
 
-- Ferdig prosjektplan her
+- Prosjektplan ligger her
