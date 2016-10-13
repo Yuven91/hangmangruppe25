@@ -1,8 +1,9 @@
 ##**Hangman spill - Gruppe 25**
 
 
-> I will build a great wall – and nobody builds walls better than me, believe me – and I’ll build them very inexpensively. I will build a great, great wall on our southern border, and I will make Mexico pay for that wall. Mark my words. - Donald trump
+> It’s freezing and snowing in New York – we need global warming! - Donald Trump
 
+> I’ve said if Ivanka weren’t my daughter, perhaps I’d be dating her. - Donald Trump
 
 
 
