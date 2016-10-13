@@ -22,9 +22,41 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container()
+        Me.NewGameButton = New System.Windows.Forms.Button()
+        Me.MuteButton = New System.Windows.Forms.Button()
+        Me.SuspendLayout()
+        '
+        'NewGameButton
+        '
+        Me.NewGameButton.Location = New System.Drawing.Point(197, 226)
+        Me.NewGameButton.Name = "NewGameButton"
+        Me.NewGameButton.Size = New System.Drawing.Size(75, 23)
+        Me.NewGameButton.TabIndex = 0
+        Me.NewGameButton.Text = "Nytt spill"
+        Me.NewGameButton.UseVisualStyleBackColor = True
+        '
+        'MuteButton
+        '
+        Me.MuteButton.Location = New System.Drawing.Point(197, 197)
+        Me.MuteButton.Name = "MuteButton"
+        Me.MuteButton.Size = New System.Drawing.Size(75, 23)
+        Me.MuteButton.TabIndex = 1
+        Me.MuteButton.Text = "Mute"
+        Me.MuteButton.UseVisualStyleBackColor = True
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(284, 261)
+        Me.Controls.Add(Me.MuteButton)
+        Me.Controls.Add(Me.NewGameButton)
+        Me.Name = "Form1"
         Me.Text = "Form1"
+        Me.ResumeLayout(False)
+
     End Sub
 
+    Friend WithEvents NewGameButton As Button
+    Friend WithEvents MuteButton As Button
 End Class
